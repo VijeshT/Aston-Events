@@ -1,0 +1,13 @@
+#welcome-message {
+  text-align: center;
+}
+
+#main-title {
+  height: 500px;
+  background-color: #eee;
+  text-align: center;
+}
+
+#main-title h2 {
+  padding-top: 200px;
+}
